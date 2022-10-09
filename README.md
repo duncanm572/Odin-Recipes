@@ -1,2 +1,2 @@
 # Odin-Recipes
-Git Hum repo for test project
+Git Hub repo for test project
